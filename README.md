@@ -63,5 +63,5 @@ Pesquisas e trabalhos desenvolvidos durante a graduação em Economia, com desta
 
 Estou sempre aberto a oportunidades de aprendizado, colaboração e desenvolvimento profissional.
 
-* LinkedIn: https://www.linkedin.com/in/charliton-nogueira-8732423b3
+* LinkedIn: https://www.linkedin.com/in/charliton-nogueira
 * E-mail: charlitonaanalista@gmail.com
